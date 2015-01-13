@@ -5,9 +5,9 @@ MoonGene real-time mobile analytical solution was created with games in mind. Ou
 
 SETUP
 -----
-Follow setup guids in src/gene, src/moon, and src/sdk
+Follow setup guides in src/gene, src/moon, and src/sdk
 
 LICENSING
 ---------
 
-MoonGene Mobile Analytics is dual licensed, available under GPL and commercial license. Contact us for more information on commercial license at moongene@outlook.com
+MoonGene Mobile Analytics is licensed under MIT. For more information about the project see http://www.alexkhilko.com
